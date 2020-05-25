@@ -6,7 +6,12 @@
   - Developer: Sujan Dhakal
  
 How to run?
+
+    - Open terminal and navigate into the directory. cd Java_compiler
     - npm install
-    - 
+    - node app (Port: 3100)
+    - Open browser and visit: http://localhost:3100/
  
+Home Page:
+
  
