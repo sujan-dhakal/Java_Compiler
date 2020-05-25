@@ -12,6 +12,11 @@ How to run?
     - node app (Port: 3100)
     - Open browser and visit: http://localhost:3100/
  
-Home Page:
+Home Page Preview:
+
+ <img src="screenshot/home.png">
+ 
+Sample Output Preview:
+ <img src="screenshot/sample.png">
 
  
