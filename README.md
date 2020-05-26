@@ -7,7 +7,7 @@
  
 How to run?
 
-    - Open terminal and navigate into the directory. cd Java_compiler
+    - Open terminal and navigate into the directory. cd Java_Compiler
     - npm install
     - node app (Port: 3100)
     - Open browser and visit: http://localhost:3100/
